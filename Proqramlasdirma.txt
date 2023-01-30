@@ -1,0 +1,25 @@
+server qaldirmaq ---> ++
+
+exam ---> birbasa blogda eledik ++
+
+exam modelsden duzelis etmek ---> ++
+
+exam search --->  ++
+
+yaradilma vaxti ---> ++
+
+izleyici sayi --->++
+
+search photo duzelis etmek ---> ++
+
+taggit ---> blog taggit django ++
+
+comment ---> ++
+
+muellif ---> ++											                      												 
+
+github push ---> ++
+
+                              
+
+
